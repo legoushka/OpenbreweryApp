@@ -1,0 +1,33 @@
+<resources>
+	<string name="app_name">Brewery App</string>
+	<string name="top_bar_app_name_emoji">🍻</string>
+	<string name="brewery_micro">Micro</string>
+	<string name="brewery_nano">Nano</string>
+	<string name="brewery_regional">Regional</string>
+	<string name="brewery_brewpub">Brew pub</string>
+	<string name="brewery_large">Large</string>
+	<string name="brewery_planning">Planning</string>
+	<string name="brewery_bar">Bar</string>
+	<string name="brewery_contract">Contract</string>
+	<string name="brewery_proprietor">Proprietor</string>
+	<string name="brewery_closed">Closed</string>
+	<string name="search">Search breweries</string>
+	<string name="favorite_icon_button">Favorite icon button</string>
+	<string name="previous_page">Previous</string>
+	<string name="next_page">Next</string>
+	<string name="unknown_brewery">Unknown brewery</string>
+	<string name="go_back_button">Go back</string>
+	<string name="try_again">Try again</string>
+	<string name="error">Error</string>
+	<string name="address">Address</string>
+	<string name="brewery_type">Brewery type</string>
+	<string name="contacts">Contacts</string>
+	<string name="phone_number_icon">Phone number icon</string>
+	<string name="website_icon">Website icon</string>
+	<string name="filter">Filter</string>
+	<string name="favorite">Favorite</string>
+	<string name="search_icon">Search icon</string>
+	<string name="brewery_search">Brewery search</string>
+	<string name="nothing_found">Nothing found</string>
+	<string name="close_dialog">Close</string>
+</resources>

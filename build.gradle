@@ -1,0 +1,39 @@
+buildscript {
+
+    ext {
+        gradle_version = "7.4.0"
+        kotlin_version = "1.7.20"
+        dagger_version = "2.44.2"
+        hilt_version = "1.0.0"
+
+        viewmodel_compose_version = "2.5.1"
+
+        ktor_client_version = "2.2.1"
+        kotlinx_serialization_version = "1.4.1"
+
+        room_version = "2.5.0"
+
+        core_ktx_version = "1.9.0"
+        appcompat_version = "1.6.0"
+        navigation_ui_ktx_version = "2.5.3"
+
+
+        junit_version = "4.13.2"
+        androidx_junit_version = "1.1.5"
+        androidx_espresso_version = "3.5.1"
+    }
+
+
+
+    repositories {
+        mavenCentral()
+        google()
+    }
+
+    dependencies {
+        classpath "com.android.tools.build:gradle:$gradle_version"
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+        classpath "org.jetbrains.kotlin:kotlin-serialization:$kotlin_version"
+        classpath "com.google.dagger:hilt-android-gradle-plugin:$dagger_version"
+    }
+}
